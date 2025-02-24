@@ -8,6 +8,7 @@ The Event Booking System is a dynamic web application built with React, TypeScri
 1️⃣ Clone the Repository
 git clone https://github.com/Deepanshu-Raghuwanshi/Event-Booking.git
 cd Event-Booking
+cd event-booking
 
 ---
 

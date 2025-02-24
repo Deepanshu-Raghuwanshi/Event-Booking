@@ -44,3 +44,6 @@ dist/
 # Log Files
 *.log
 logs/
+*.js
+*.d.ts
+dist/
