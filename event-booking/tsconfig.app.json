@@ -22,5 +22,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src", "useBooking.ts", "type.ts"],
+  "exclude": ["node_modules"]
 }

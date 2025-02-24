@@ -6,8 +6,14 @@
     { "path": "./tsconfig.node.json" }
   ],
   "compilerOptions": {
-    "types": ["swiper"],
-    "noImplicitAny": false
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": false,
+    "lib": ["ES2015", "DOM"],
+    "module": "es2020",
+    "types": ["swiper", "react", "react-dom"],
+    "noEmit": false
   },
-  "include": ["src"]
+  "include": ["src", "useBooking.ts", "type.ts"]
 }
