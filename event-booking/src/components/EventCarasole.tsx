@@ -1,4 +1,7 @@
 import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
 import image1 from "../assets/aranxa-esteve-S5DEUg2yUVU-unsplash.jpg";
 import image2 from "../assets/britt-gaiser-hSAlu33padA-unsplash.jpg";
 import image3 from "../assets/chuttersnap-aEnH4hJ_Mrs-unsplash.jpg";
