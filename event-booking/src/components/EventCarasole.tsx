@@ -1,5 +1,5 @@
 import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/swiper.css";
+import "swiper/swiper-bundle.css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import image1 from "../assets/aranxa-esteve-S5DEUg2yUVU-unsplash.jpg";
